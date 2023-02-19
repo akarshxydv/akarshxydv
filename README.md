@@ -23,7 +23,7 @@ machine learning, and data visualization to drive meaningful insights and improv
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 
-  <img  height="280em" width="380" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akarshxydv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img  height="280em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akarshxydv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img  height="280em" width="400" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akarshxydv&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
