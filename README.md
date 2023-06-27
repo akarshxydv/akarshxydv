@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akarsh Yadav</h1>
-<h3 align="center">Seeking a challenging data science role where I can utilize my experience in statistical analysis,
-machine learning, and data visualization to drive meaningful insights and improve business outcomes.</h3>
+<h3 align="center">Seeking a challenging role in IT
+industry to utilize experience in
+technical analysis, problem
+solving, and innovation to drive
+efficient solutions and optimize
+business operation.</h3>
 <image align="right" alt="coding" width="500" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarshxydv&label=Profile%20views&color=0e75b6&style=flat" alt="akarshxydv" /> </p>
