@@ -9,7 +9,7 @@ business operation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarshxydv&label=Profile%20views&color=0e75b6&style=flat" alt="akarshxydv" /> </p>
 
-- 🔭 A Data Science Enthusiast.
+- 🔭 A App Developer and Machine Learning Enthusiast.
 - 💬 Feel free to reach out to me for some interesting discussion and project collaboration.
 
 - 📫 How to reach me **akarshxydv@outlook.in**
