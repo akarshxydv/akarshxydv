@@ -12,7 +12,7 @@ business operation.</h3>
 - 🔭 A App Developer and Machine Learning Enthusiast.
 - 💬 Feel free to reach out to me for some interesting discussion and project collaboration.
 
-- 📫 How to reach me **akarshxydv@outlook.in**
+- 📫 How to reach me **akarshxydv@hotmail.com**
 
 ## 🤝🏻 &nbsp;Connect with Me
 <p align="left">
