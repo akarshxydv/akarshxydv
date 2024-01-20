@@ -5,7 +5,7 @@ technical analysis, problem
 solving, and innovation to drive
 efficient solutions and optimize
 business operation.</h3>
-<image align="right" alt="coding" width="500" src="https://camo.githubusercontent.com/9163bfc6df8e7f26a471d84e0219e6b7cf636ab0610216c521642028559ad2d6/68747470733a2f2f632e74656e6f722e636f6d2f7336654878424748766c4941414141432f616e696d6174696f6e2d636172746f6f6e732e676966">
+<image align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarshxydv&label=Profile%20views&color=0e75b6&style=flat" alt="akarshxydv" /> </p>
 
