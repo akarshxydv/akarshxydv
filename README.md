@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akarsh Yadav</h1>
-<h3 align="center">Seeking a challenging role in IT
-industry to utilize experience in
-technical analysis, problem
-solving, and innovation to drive
-efficient solutions and optimize
-business operation.</h3>
+<h2 align="center">I'm eager to connect with like-minded individuals who also believe in collaboration over competition. Let's chat and explore how we can collectively tackle challenges and drive innovation in the tech world!</h2>
 <image align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarshxydv&label=Profile%20views&color=0e75b6&style=flat" alt="akarshxydv" /> </p>
 
-- 🔭 I am an app developer and a machine learning enthusiast.
+- 🔭 I'm a Sofware Developer with expertise in backend development and a passion for building Android apps.
 - 💬 Feel free to reach out to me for some interesting discussion and project collaboration.
 
 - 📫 How to reach me **akarshxydv@hotmail.com**
