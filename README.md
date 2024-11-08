@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarshxydv&label=Profile%20views&color=0e75b6&style=flat" alt="akarshxydv" /> </p>
 
-- 🔭 I'm a Sofware Developer with expertise in backend development and a passion for building Android apps.
+- 🔭 I'm a Sofware Developer with expertise in backend development and a passion for building apps.
 - 💬 Feel free to reach out to me for some interesting discussion and project collaboration.
 
 - 📫 How to reach me **akarshxydv@hotmail.com**
